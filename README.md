@@ -22,35 +22,35 @@
     a. [Projekt 9](#project-9)
 
 
-## Wprowadzenie {#intro}
+## Wprowadzenie (#intro)
 Portfolio powstało w celu prezentacji moich umiejętności z zakresu Data Science. Poniżej znajduje się zestawienie projektów i krótki opis ich celu oraz zakresu.
 
 W razie pytań jestem dostępny pod adresem dawidgroberski@gmail.com.
 
-## Inżynieria danych {#data-engineering}
+## Inżynieria danych (#data-engineering)
 
-### Projekt 1 {#project-1}
+### Projekt 1 (#project-1)
 
-### Projekt 2 {#project-2}
+### Projekt 2 (#project-2)
 
-## Analiza danych {#data-analysis}
+## Analiza danych (#data-analysis)
 
-### Projekt 3 {#project-3}
+### Projekt 3 (#project-3)
 
-### Projekt 4 {#project-4}
+### Projekt 4 (#project-4)
 
-## Uczenie maszynowe {#machine-learning}
+## Uczenie maszynowe (#machine-learning)
 
-### Projekt 5 {#project-5}
+### Projekt 5 (#project-5)
 
-### Projekt 6 {#project-6}
+### Projekt 6 (#project-6)
 
-## Deep Learning {#deep-learning}
+## Deep Learning (#deep-learning)
 
-### Projekt 7 {#project-7}
+### Projekt 7 (#project-7)
 
-### Projekt 8 {#project-8}
+### Projekt 8 (#project-8)
 
-## Big Data {#big-data}
+## Big Data (#big-data)
 
-### Projekt 9 {#project-9}
+### Projekt 9 (#project-9)
