@@ -6,20 +6,20 @@
 
 ## Spis treści
 1. [Wprowadzenie](#intro)
-2. [Inżynieria danych](#data_engineering)
-    a. [Projekt 1](#project_1)
-    b. [Projekt 2](#project_2)
-3. [Analiza danych](#data_analysis)
-    a. [Projekt 3](#project_3)
-    b. [Projekt 4](#project_4)
-4. [Uczenie maszynowe](#machine_learning)
-    a. [Projekt 5](#project_5)
-    b. [Projekt 6](#project_6)
-5. [Deep Learning](#deep_learning)
-    c. [Projekt 7](#project_7)
-    d. [Projekt 8](#project_8)
-6. [Big Data](#big_data)
-    a. [Projekt 9](#project_9)
+2. [Inżynieria danych](#data-engineering)
+    a. [Projekt 1](#project-1)
+    b. [Projekt 2](#project-2)
+3. [Analiza danych](#data-analysis)
+    a. [Projekt 3](#project-3)
+    b. [Projekt 4](#project-4)
+4. [Uczenie maszynowe](#machine-learning)
+    a. [Projekt 5](#project-5)
+    b. [Projekt 6](#project-6)
+5. [Deep Learning](#deep-learning)
+    c. [Projekt 7](#project-7)
+    d. [Projekt 8](#project-8)
+6. [Big Data](#big-data)
+    a. [Projekt 9](#project-9)
 
 
 ## Wprowadzenie {#intro}
@@ -27,30 +27,30 @@ Portfolio powstało w celu prezentacji moich umiejętności z zakresu Data Scien
 
 W razie pytań jestem dostępny pod adresem dawidgroberski@gmail.com.
 
-## Inżynieria danych {#data_engineering}
+## Inżynieria danych {#data-engineering}
 
-### Projekt 1 {#project_1}
+### Projekt 1 {#project-1}
 
-### Projekt 2 {#project_2}
+### Projekt 2 {#project-2}
 
-## Analiza danych {#data_analysis}
+## Analiza danych {#data-analysis}
 
-### Projekt 3 {#project_3}
+### Projekt 3 {#project-3}
 
-### Projekt 4 {#project_4}
+### Projekt 4 {#project-4}
 
-## Uczenie maszynowe {#machine_learning}
+## Uczenie maszynowe {#machine-learning}
 
-### Projekt 5 {#project_5}
+### Projekt 5 {#project-5}
 
-### Projekt 6 {#project_6}
+### Projekt 6 {#project-6}
 
-## Deep Learning {#deep_learning}
+## Deep Learning {#deep-learning}
 
-### Projekt 7 {#project_7}
+### Projekt 7 {#project-7}
 
-### Projekt 8 {#project_8}
+### Projekt 8 {#project-8}
 
-## Big Data {#big_data}
+## Big Data {#big-data}
 
-### Projekt 9 {#project_9}
+### Projekt 9 {#project-9}
