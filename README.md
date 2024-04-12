@@ -5,52 +5,52 @@
 ---
 
 ## Spis treści
-1. [Wprowadzenie](#intro)
-2. [Inżynieria danych](#data-engineering)
-    a. [Projekt 1](#project-1)
-    b. [Projekt 2](#project-2)
-3. [Analiza danych](#data-analysis)
-    a. [Projekt 3](#project-3)
-    b. [Projekt 4](#project-4)
-4. [Uczenie maszynowe](#machine-learning)
-    a. [Projekt 5](#project-5)
-    b. [Projekt 6](#project-6)
-5. [Deep Learning](#deep-learning)
-    c. [Projekt 7](#project-7)
-    d. [Projekt 8](#project-8)
-6. [Big Data](#big-data)
-    a. [Projekt 9](#project-9)
+1. [Wprowadzenie](#user-content-intro)
+2. [Inżynieria danych](#user-content-inżynieria-danych)
+    a. [Projekt 1](#user-content-projekt-1)
+    b. [Projekt 2](#user-content-projekt-2)
+3. [Analiza danych](#user-content-data-analysis)
+    a. [Projekt 3](#user-content-projekt-3)
+    b. [Projekt 4](#user-content-projekt-4)
+4. [Uczenie maszynowe](#user-content-uczenie-maszynowe)
+    a. [Projekt 5](#user-content-projekt-5)
+    b. [Projekt 6](#user-content-projekt-6)
+5. [Deep Learning](#user-content-deep-learning)
+    c. [Projekt 7](#user-content-projekt-7)
+    d. [Projekt 8](#user-content-projekt-8)
+6. [Big Data](#user-content-big-data)
+    a. [Projekt 9](#user-content-projekt-9)
 
 
-## Wprowadzenie (#intro)
+## Wprowadzenie
 Portfolio powstało w celu prezentacji moich umiejętności z zakresu Data Science. Poniżej znajduje się zestawienie projektów i krótki opis ich celu oraz zakresu.
 
 W razie pytań jestem dostępny pod adresem dawidgroberski@gmail.com.
 
-## Inżynieria danych (#data-engineering)
+## Inżynieria danych
 
-### Projekt 1 (#project-1)
+### Projekt 1
 
-### Projekt 2 (#project-2)
+### Projekt 2
 
-## Analiza danych (#data-analysis)
+## Analiza danych
 
-### Projekt 3 (#project-3)
+### Projekt 3
 
-### Projekt 4 (#project-4)
+### Projekt 4
 
-## Uczenie maszynowe (#machine-learning)
+## Uczenie maszynowe
 
-### Projekt 5 (#project-5)
+### Projekt 5
 
-### Projekt 6 (#project-6)
+### Projekt 6
 
-## Deep Learning (#deep-learning)
+## Deep Learning
 
-### Projekt 7 (#project-7)
+### Projekt 7
 
-### Projekt 8 (#project-8)
+### Projekt 8
 
-## Big Data (#big-data)
+## Big Data
 
-### Projekt 9 (#project-9)
+### Projekt 9
